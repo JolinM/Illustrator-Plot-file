@@ -4,6 +4,7 @@
 - [ ] Convert document to CMYK
 - [ ] Replace text color (target each color sepratly)
 - [ ] Replace stroke color and weight (target each color sepratly)
+- [ ] incomplete
 
 # Later
 - [ ] Use a master multiplication value
